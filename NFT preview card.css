@@ -1,0 +1,110 @@
+.container
+{
+    border: 5px;
+    height: 596px;
+    width: 350px;
+    margin: 0, auto;
+    background-color: #15263F;
+    box-shadow: 0px 25px 50px;
+    border-radius: 15px;
+}
+.img-equilibrium
+{
+    height: 302px;
+    width: 302px;
+    padding-top: 6.86%;
+    padding-left: 6.86%;
+    padding-right: 4.03%;
+    border-radius: 8px;
+}
+.first
+{
+    margin: auto;
+    margin-top: 11px;
+    font-size: 22px;
+    font-weight: 600;
+    width: 302px;
+    line-height: 28px;
+    color: cyan;
+}
+.second
+{
+    margin: auto;
+    line-height: 27.5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 302px;
+    font-family: 'outfit';
+    font-size: 18px;
+    color: #8bacd9;
+}
+.img-ethereum
+{
+    width: 8px;
+    height: 11px;
+    margin-left: 23px;
+    margin-top: 11.22px;
+}
+.txt-ethereum
+{
+    width: 75px;
+    height: 20px;
+    font-weight: 600px;
+    font-size: 16px;
+    line-height: 20.16px;
+    color: cyan;
+}
+.img-clock
+{
+    width: 13.33px;
+    height: 13.33px;
+    margin-left: 90px;
+    padding-left: 21.5px;
+}
+.txt-clock
+{
+    width: 73px;
+    height: 20px;
+    margin-left: 5px;
+    font-family: 'outfit';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8bacd9;
+    position: absolute;
+
+}
+.devidor
+{
+    border-bottom: 1px;
+    border-color: #2E405A;
+    width: 320px;
+    margin-left: 15px;
+}
+.img-avatar
+{
+    width: 33px;
+    height: 33px;
+    border: 1px;
+    border-top: #2e405a;
+    border-width: 302px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.nickname-1
+{
+    color: #8bacd9;   
+}
+.nickname-2
+{
+    color: white;
+}
+div p
+{
+    display: inline-block;
+}
+.nicknames
+{
+    margin-top: -20px;
+    margin-left: 65px;
+}
